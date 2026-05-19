@@ -187,7 +187,6 @@ User: 右手慢慢舉起
 ### 無法偵測 GPU
 - 確認已安裝 NVIDIA 驅動程式
 - 執行 `nvidia-smi` 確認 GPU 狀態
-"# CYUT-Humanoid-Robotic" 
 
 
 ## 問題詢問
