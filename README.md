@@ -188,7 +188,5 @@ User: 右手慢慢舉起
 - 確認已安裝 NVIDIA 驅動程式
 - 執行 `nvidia-smi` 確認 GPU 狀態
 
-
-##
 ### Email資訊
 - s11427602@gm.cyut.edu.tw
